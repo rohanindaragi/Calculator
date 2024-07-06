@@ -16,7 +16,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone git clone https://github.com/your-username/calculator.git
+git clone git clone [https://github.com/your-username/calculator.git](https://github.com/rohanindaragi/Calculator.git)
 Open the index.html file in your web browser.
 
 Use the buttons to perform calculations.
