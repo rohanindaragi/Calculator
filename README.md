@@ -20,3 +20,7 @@ git clone git clone https://github.com/your-username/calculator.git
 Open the index.html file in your web browser.
 
 Use the buttons to perform calculations.
+
+# Screenshot
+![image](https://github.com/rohanindaragi/Calculator/assets/75676864/14466a9e-ee64-46b1-9362-cf86ab48348d)
+
